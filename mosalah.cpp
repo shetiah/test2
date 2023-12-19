@@ -6,4 +6,5 @@ int main ()
     int y=0;
     int z=0;
     
+    bool salah =false;
 }
