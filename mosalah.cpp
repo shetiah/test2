@@ -3,7 +3,7 @@ using namespace std;
 int main ()
 {
     int x=0;
-    int y=10;
+    int y=109999;
 
     int awsa=1101;
 
