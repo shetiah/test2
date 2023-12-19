@@ -7,7 +7,7 @@ int main ()
 
     int awsa=1101;
 
-    int aws=11000;
+    int aws=110011110;
     int z=0;
     bool salah =false;
 }
