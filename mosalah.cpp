@@ -2,9 +2,12 @@
 using namespace std;
 int main ()
 {
-    int x=0192929;
     int y=2939393;
     int z=010101;
     
     bool salah =true;
+
+    int x=0;
+    int aws=110011110;
+    int awsa=11011111;
 }
